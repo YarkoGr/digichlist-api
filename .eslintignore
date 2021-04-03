@@ -1,0 +1,9 @@
+node_modules
+/.idea
+.vscode/*
+package.json
+package-lock.json
+Dockerfile
+docker-compose.yml
+.travis.yml
+swagger.json
